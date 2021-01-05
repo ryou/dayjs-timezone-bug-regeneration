@@ -1,0 +1,11 @@
+{
+    "name": "dayjs-timezone-bug-regeneration",
+    "dependencies": {
+        "dayjs": "^1.10.1",
+        "moment": "^2.29.1",
+        "moment-timezone": "^0.5.32"
+    },
+    "engines": {
+        "node": "12.14.0"
+    }
+}
